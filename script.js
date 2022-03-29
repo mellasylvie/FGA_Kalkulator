@@ -62,7 +62,7 @@ const calculate = () => {
             result = prevNumber/currentNumber;
             break;
         case "%":
-            result = prevNumber/100*currentNumber;
+            result = prevNumber/100;
             break;
         default:
             return;
