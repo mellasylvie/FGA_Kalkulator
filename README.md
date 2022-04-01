@@ -3,5 +3,7 @@ Kalkulator sederhana untuk memenuhi tugas akhir perlatihan FGA Digitalent Kominf
 
 ## Data Diri
 Nama : Mellania Permata Sylvie
+
 No. Registrasi : 149173029100-305
+
 Kelas : Front-End Developer Kelas D 
